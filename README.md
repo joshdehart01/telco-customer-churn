@@ -34,7 +34,7 @@ This dataset is widely used for customer analytics and churn prediction exercise
 ---
 
 ## Project Structure
-- `telco_customer_churn.csv` - Raw dataset
+- `telco_customer_churn.csv` – Raw dataset
 - `telco_churn_analysis.ipynb` – Full analysis and modeling workflow with clear sections and comments  
 - `README.md` – Explains the project, dataset, insights, and recommendations  
 
